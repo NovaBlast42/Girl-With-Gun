@@ -3,7 +3,7 @@
   "description": "A series of comics created for War for Rayuba.",
   "artist": "@novy_boy",
   "author": "@novy_boy",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://cdn.discordapp.com/attachments/867036274561122304/869911751448207390/7F82E2BD-EC2B-4358-B35D-4D6898E04FB8.png",
   "chapters": {
     "1": {
       "title": "Round 7 Grandbattle Mines - Robbery",
@@ -11,7 +11,7 @@
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/TjQ6IGg/"
       },
-      "last_updated": "1629357239939"
+      "last_updated": "1629357527"
     },
     "2": {
       "title": "Round 7 Grandbattle Mines - Falling",
@@ -19,7 +19,7 @@
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/IhUskjb/"
       },
-      "last_updated": "1629357239939"
+      "last_updated": "1629357527"
     }
   }
 }

@@ -1,3 +1,4 @@
 # War-For-Rayuba
-Comics for War for Rayuba
-unixtimestamp.com for dates
+Comics created for War for Rayuba
+
+Use unixtimestamp.com for the upload date.

@@ -1,0 +1,25 @@
+{
+  "title": "Girl With Gun",
+  "description": "<manga description>",
+  "artist": "@novy_boy",
+  "author": "@novy_boy",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "1": {
+      "title": "Robbery",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/TjQ6IGg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Falling",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/IhUskjb/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}

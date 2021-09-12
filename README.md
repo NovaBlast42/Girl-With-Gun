@@ -5,5 +5,5 @@ https://cubari.moe/read/gist/J0Nwh/
 
 Use unixtimestamp.com for the upload date.
 
-For easy upload use
+For ease of upload use
 https://stirante.com/facaccimo/index.html#

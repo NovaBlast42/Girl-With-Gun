@@ -6,7 +6,7 @@
   "cover": "https://cdn.discordapp.com/attachments/867036274561122304/869911751448207390/7F82E2BD-EC2B-4358-B35D-4D6898E04FB8.png",
   "chapters": {
     "1": {
-      "title": "Round 7 Grandbattle Mines - Robbery",
+      "title": "Round 7 Grand Battle Mines - Robbery",
       "volume": "7",
       "last_updated": "1629357527",
       "groups": {
@@ -14,12 +14,18 @@
       }
     },
     "2": {
-      "title": "Round 7 Grandbattle Mines - Falling",
+      "title": "Round 7 Grand Battle Mines - Falling",
       "volume": "7",
       "last_updated": "1629357527",
       "groups": {
         "@novy_boy": "/proxy/api/imgur/chapter/IhUskjb/"
-      }
+      },
+     "3": {
+      "title": "Round 8 Grand Battle Lost City A - Lost",
+      "volume": "8",
+      "last_updated": "1632136631",
+      "groups": { 
+       "@novy_boy": "/proxy/api/imgur/chapter/2ztOcV8/"
     }
   }
 }

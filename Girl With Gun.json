@@ -21,12 +21,20 @@
         "@novy_boy": "/proxy/api/imgur/chapter/IhUskjb/"
       }
     },
-     "3": {
+    "3": {
       "title": "Round 8 Grand Battle Lost City A - Lost",
       "volume": "8",
       "last_updated": "1632136631",
       "groups": { 
        "@novy_boy": "/proxy/api/imgur/chapter/2ztOcV8/"
+      }
+    },
+    "4": {
+      "title": "Round 9 Grandest Battle 1 - Checkup",
+      "volume": "9",
+      "last_updated": "1637220470",
+      "groups": { 
+       "@novy_boy": "/proxy/api/imgur/chapter/Gt6OggE/"
       }
     }
   }
